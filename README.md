@@ -1,4 +1,4 @@
-# Havalimani Ucus Yonetim Sistemi
+# Havalimanı Uçuş Yönetim Sistemi
 Program açıldıgında ilk olarak ”input.txt” dosyasını okuma
 modunda açar ve dosya içindeki verileri satır satır okur. Her
 satırda bir uçagın iniş talebi yer almaktadır. Program gelen
