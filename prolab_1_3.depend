@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639762299 source:c:\users\kerem\desktop\prolab_1_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
